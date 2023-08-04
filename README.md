@@ -26,7 +26,7 @@ To run this project, follow these steps:
 
 ## Usage
 
-1. Open the Jupyter Notebook provided in the repository: ki-67-patches-dataset-segmentation-using-unet.ipynb.
+1. Open the Jupyter Notebook provided in the repository: TumorCellularityWatershed.ipynb.
 2. Follow the step-by-step instructions in the notebook to load the dataset, preprocess the data, and train the U-Net model.
 3. Experiment with hyperparameters, data augmentation settings, or model architecture to improve performance.
 4. Monitor the training process and evaluate the model on test data.
